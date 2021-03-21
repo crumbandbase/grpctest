@@ -1,4 +1,4 @@
-# grpctest
+# grpctest ![test](https://github.com/crumbandbase/grpctest/workflows/test/badge.svg?event=push)
 
 `grpctest` is a package providing utilities for testing gRPC servers.
 Specifically it formalises a pattern of writing integration style tests by
